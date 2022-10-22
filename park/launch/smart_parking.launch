@@ -1,0 +1,4 @@
+<launch>
+<node pkg="park" type="data_acquisition_and_update.py" name="data_acquisition"/>
+<!-- <node pkg="park" type="parking_slot_processing.py" name="data_processing"/> -->
+</launch>
